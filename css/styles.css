@@ -19,6 +19,8 @@ body {
 canvas {
 	position: relative;	
 	border: 2px dashed black;
-	background-image: url("http://i.funny.pho.to/preview/snow_effect/falling_snow_effect.jpeg");
+	background-image: url("http://i.imgur.com/GdGXArS.jpg");
+	background-size: contain;
+	background-repeat: no-repeat;
 	
 }
